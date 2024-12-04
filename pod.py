@@ -37,7 +37,7 @@ st.markdown("""
         box-shadow: 0 0 10px #00ff00;
     }
     .stButton > button {
-        background-color: #ff00ff; /* Neon pink button */
+        background-color: #FFA500; /* Orange button */
         color: #fff;
         border-radius: 8px;
         padding: 10px 20px;
@@ -45,7 +45,7 @@ st.markdown("""
         font-weight: bold;
     }
     .stButton > button:hover {
-        background-color: #ff1493; /* Slightly darker pink when hovered */
+        background-color: #FF8C00; /* Darker orange on hover */
     }
     .output-box {
         background-color: #333; /* Dark background for the output box */
