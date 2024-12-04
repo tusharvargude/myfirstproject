@@ -86,7 +86,7 @@ if "responses" not in st.session_state:
     st.session_state["responses"] = []  # Stores responses
 
 # Title
-st.title("Tushar")
+st.title("AI Based Podcast Script Generator by TUSHAR")
 
 # Main container for user input
 with st.container():
